@@ -3519,6 +3519,7 @@ value){switch(index){case ENABLE:this.SetEnabled(value);break}}GetDebuggerProper
 		{TiledBackground11: 0},
 		{laser: 0},
 		{youWin: 0},
+		{quit: 0},
 		{ore_: 0},
 		{ore_name: 0},
 		{wallpaper: 0},
